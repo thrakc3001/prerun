@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo sntp -sS time.apple.com
-echo "hello world"
+defaults write -g AppleKeyboardUIMode -int 2
